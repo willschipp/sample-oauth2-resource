@@ -1,0 +1,4 @@
+security:
+  checkpointUrl: http://localhost:8081/oauth/check_token
+  client-id: someclient
+  client-secret: somesecret
